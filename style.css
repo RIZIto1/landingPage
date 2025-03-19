@@ -1,7 +1,7 @@
 body {
   font-family: Courier, Arial;
   line-height: 1.6;
-  font-color: #ffffff;
+  font-color: #f4f4f4;
   margin: 5px; 
   padding: 0;
   background-color: #d4bfa3;
@@ -12,10 +12,10 @@ img {
   margin: 10px auto;
   border-radius:30px;
 }
-.container, encabezado {
+.container{
   width: 80%; 
   margin: 20px auto;
-  background-color: #f4f4f4;
+  background-color: #ffffff;
   padding: 20px;
   border-radius: 5px; 
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
@@ -25,4 +25,9 @@ img {
   grid-template-columns: 1fr 1fr;
   gap: 20px;
 }
-
+.encabezado{
+  width: 100%; 
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+}
