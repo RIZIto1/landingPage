@@ -2,16 +2,17 @@ body {
   font-family: Courier, Arial;
   line-height: 1.6;
   font-color: #ffffff;
-  margin: 0; 
+  margin: 5px; 
   padding: 0;
   background-color: #d4bfa3;
 }
 img {
-  max-width: 150px;
-  height: 150px; 
+  max-width: 200px;
+  height: 200px; 
   margin: 10px auto;
+  border-radius:30px;
 }
-.container {
+.container, encabezado{
   width: 80%; 
   margin: 20px auto;
   background-color: #f4f4f4;
@@ -24,3 +25,4 @@ img {
   grid-template-columns: 1fr 1fr;
   gap: 20px;
 }
+
