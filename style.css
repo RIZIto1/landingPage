@@ -6,7 +6,7 @@ body {
   padding: 0;
   background-color: #d4bfa3;
 }
-.img {
+img {
   max-width: 150px;
   height: 150px; 
   margin: 10px auto;
