@@ -1,12 +1,26 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
+  font-color: #ffffff;
   margin: 0; 
   padding: 0;
   background-color: #d4bfa3;
 }
-img {
+foto {
   max-width: 150px;
   height: 150px; 
   margin: 10px auto;
+}
+.container {
+  width: 80%; 
+  margin: 20px auto;
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 5px; 
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+.columna {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
 }
