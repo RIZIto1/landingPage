@@ -9,7 +9,7 @@ body {
 .linea{
     border-top: 2px solid #ffffff;
     width: 70%;
-    margin: 20px auto;
+    margin: 30px auto;
   }
 .encabezado{
   width: 70%; 
@@ -38,6 +38,10 @@ img {
 .columna {
   flex: 1;
   padding: 10px;
+  background-color: #ffffff; 
+  margin: 10px; 
+  border-radius: 5px; 
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
 }
 
 .encabezado .texto {
