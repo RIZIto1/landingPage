@@ -31,7 +31,6 @@ img {
   display: flex;
   width: 70%; 
   margin: 20px auto;
-  background-color: #ffffff;
   padding: 20px;
   box-shadow: 0 2px 5px rgba(126, 62, 62, 0.1); 
 }
