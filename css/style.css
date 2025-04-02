@@ -6,7 +6,10 @@ body {
   padding: 0;
   background-color: #d4bfa3;
 }
-
+.linea{
+    border-top: 2px solid rgb(255, 255, 255);
+    width: 100%; rgb(196, 196, 234);
+}
 .encabezado{
   width: 70%; 
   border-radius: 30px;
@@ -27,7 +30,7 @@ img {
   display: flex;
   width: 70%; 
   margin: 20px auto;
-  background-color: #ffffff;
+  background-color: #ebdfdf;
   padding: 20px;
   box-shadow: 0 2px 5px rgba(126, 62, 62, 0.1); 
 }
