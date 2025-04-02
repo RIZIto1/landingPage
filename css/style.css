@@ -12,7 +12,7 @@ body {
 }
 .linea{
     border-top: 2px solid #ffffff;
-    width: 70%;
+    width: 75%;
     margin: 30px auto;
   }
 .encabezado{
@@ -33,9 +33,8 @@ img {
 }
 .contenedor{
   display: flex;
-  width: 75%; 
+  width: 70%; 
   margin: 20px auto;
-  padding: 10px;
 }
 .columna {
   flex: 1;
