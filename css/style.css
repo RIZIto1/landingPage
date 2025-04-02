@@ -6,6 +6,9 @@ body {
   padding: 0;
   background-color: #d4bfa3;
 }
+.h3, h1{
+  font-family: Helvetica, sans-serif;
+}
 .linea{
     border-top: 2px solid #ffffff;
     width: 70%;
