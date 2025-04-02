@@ -3,7 +3,6 @@ body {
   line-height: 1.6;
   color: #000000;
   margin: 5px; 
-  padding: 0;
   background-color: #d4bfa3;
 }
 .h3, h1{
@@ -12,8 +11,8 @@ body {
 }
 .linea{
     border-top: 2px solid #ffffff;
-    width: 75%;
-    margin: 30px auto;
+    width: 70%;
+    margin: 5px auto;
   }
 .encabezado{
   width: 70%; 
