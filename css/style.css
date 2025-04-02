@@ -7,8 +7,8 @@ body {
   background-color: #d4bfa3;
 }
 .linea{
-    border-top: 2px solid rgb(255, 255, 255);
-    width: 100%;
+    border-top: 2px solid #ffffff;
+    width: 70%;
 }
 .encabezado{
   width: 70%; 
@@ -30,7 +30,7 @@ img {
   display: flex;
   width: 70%; 
   margin: 20px auto;
-  background-color: #ebdfdf;
+  background-color: #ffffff;
   padding: 20px;
   box-shadow: 0 2px 5px rgba(126, 62, 62, 0.1); 
 }
