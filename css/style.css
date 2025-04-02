@@ -30,13 +30,13 @@ img {
 .contenedor{
   display: flex;
   width: 70%; 
-  box-shadow: 0 2px 5px rgba(126, 62, 62, 0.1); 
+  margin: 20px auto;
+  padding: 25px;
 }
 .columna {
   flex: 1;
   padding: 10px;
   background-color: #ffffff; 
-  margin: 25px; 
   border-radius: 5px; 
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
 }
