@@ -8,6 +8,7 @@ body {
 }
 .h3, h1{
   font-family: Helvetica, sans-serif;
+  margin: 10px; 
 }
 .linea{
     border-top: 2px solid #ffffff;
