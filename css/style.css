@@ -9,8 +9,8 @@ body {
 .linea{
     border-top: 2px solid #ffffff;
     width: 70%;
-    padding: 30%;
-}
+    margin: 20px auto;
+  }
 .encabezado{
   width: 70%; 
   border-radius: 30px;
