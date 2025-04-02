@@ -8,7 +8,7 @@ body {
 }
 .h3, h1{
   font-family: Helvetica, sans-serif;
-  margin: 10px auto; 
+  margin: 10px; 
 }
 .linea{
     border-top: 2px solid #ffffff;
@@ -34,6 +34,7 @@ img {
 .contenedor{
   display: flex;
   width: 70%; 
+  margin: 20px auto;
   padding: 10px;
 }
 .columna {
@@ -41,7 +42,7 @@ img {
   padding: 10px;
   background-color: #ffffff; 
   border-radius: 5px; 
-  margin: 20px;
+  margin: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
 }
 
