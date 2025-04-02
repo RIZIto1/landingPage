@@ -31,13 +31,14 @@ img {
   display: flex;
   width: 70%; 
   margin: 20px auto;
-  padding: 25px;
+  padding: 10px;
 }
 .columna {
   flex: 1;
   padding: 10px;
   background-color: #ffffff; 
   border-radius: 5px; 
+  margin: 50px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
 }
 
